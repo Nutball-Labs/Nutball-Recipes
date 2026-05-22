@@ -9,7 +9,7 @@ Curated by the Nutball household.
 
 | Recipe | Status |
 |---|---|
-| Toxic Waste Chicken | Coming Soon |
+| [Toxic Waste Chicken](main-dishes/toxic-waste-chicken.md) | Ready |
 | Patsy's Favorite Chicken | Coming Soon |
 | Tuna Fish Casserole | Coming Soon |
 
@@ -29,4 +29,4 @@ Curated by the Nutball household.
 These are personal recipes shared for friends and family. If you try something and
 have a suggestion, feel free to open an issue.
 
-<!-- SN: 00001 -->
+<!-- SN: 00002 -->
